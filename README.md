@@ -1,5 +1,6 @@
 ### Hi there 👋
-### My name is Yash Rawat
+### My name is Yash Rawat and I am currently a second year undergrad in Computer Science & Engineering
+### at Indian Institue of Technology, Delhi
 <!--
 **DeathbringerY/DeathbringerY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
